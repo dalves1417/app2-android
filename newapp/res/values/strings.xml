@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">newapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hola mundo desde canchis</string>
+    <string name="hola">Daniel Gamarra</string>
+    <string name="idmitexto">impriendo panatalla</string>
+    <string name="inputtext">Ingrese su nombre</string>
+    <string name="inputtext1">Ingrese apellido</string>
+    <string name="inputtext2">Ingrese correo</string>
+    
+    
+
+</resources>
